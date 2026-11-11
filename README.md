@@ -286,3 +286,7 @@ codex exec -s workspace-write --skip-git-repo-check -C "$(pwd)" '请使用技能
 - 第三方与发起说明：见 [`NOTICE`](NOTICE)（含 obra/superpowers 完整 MIT 全文）。
 - 对外边界：本包交付的是可照做的方法、模板和脱敏案例；凭据、真实私人联络方式、内部路径与机器信息一律不写；第三方借鉴保留在 [`NOTICE`](NOTICE) 和各技能的来源段。
 - 正式公开仍走原批准流程。
+
+## 参与和反馈
+
+参与反馈或贡献修改，请参阅[参与和反馈说明](CONTRIBUTING.md)。
