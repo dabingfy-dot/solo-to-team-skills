@@ -4,7 +4,7 @@
 
 Solo to Team is a human-led multi-agent system (MAS) toolkit for existing AI platforms. You set the goal and choose real executors. A lead coordinates, a producer makes the artifact, a separate reviewer opens the same version, and the result returns to the original conversation. Role cards, a team builder, platform Skills and continuation tools support that workflow.
 
-[中文](README.md) · [Illustrated project guide, 16 pages, Chinese](bundles/bundle1/pdf/一人成队_MAS工程与组织设计_v3_完整包与配置.pdf) · [Contributing and feedback](CONTRIBUTING.md)
+[Documentation (Chinese)](https://dabingfy-dot.github.io/solo-to-team-skills/) · [中文](README.md) · [Illustrated project guide, 16 pages, Chinese](bundles/bundle1/pdf/一人成队_MAS工程与组织设计_v3_完整包与配置.pdf) · [Contributing and feedback](CONTRIBUTING.md)
 
 [![Watch the project overview](docs/media/solo-to-team-cover.png)](https://github.com/dabingfy-dot/solo-to-team-skills/releases/tag/v0.2.0#video)
 
