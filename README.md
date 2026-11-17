@@ -4,7 +4,7 @@
 
 一人成队是一套依托现有 AI 平台运行的多智能体协作系统（MAS）工具包。你决定目标，选择真实执行者；首席统筹，执行席制作，另一位审核者打开同版成果检查，修订后交回原入口。岗位卡、建队台、四平台专用 Skill 和接续工具帮助把这条链落实到文件与记录。
 
-[English](README.en.md) · [16页项目介绍与组织图](bundles/bundle1/pdf/一人成队_MAS工程与组织设计_v3_完整包与配置.pdf) · [参与和反馈](CONTRIBUTING.md)
+[在线文档](https://dabingfy-dot.github.io/solo-to-team-skills/) · [English](README.en.md) · [16页项目介绍与组织图](bundles/bundle1/pdf/一人成队_MAS工程与组织设计_v3_完整包与配置.pdf) · [参与和反馈](CONTRIBUTING.md)
 
 [![观看项目演示](docs/media/solo-to-team-cover.png)](https://github.com/dabingfy-dot/solo-to-team-skills/releases/tag/v0.2.0#video)
 
