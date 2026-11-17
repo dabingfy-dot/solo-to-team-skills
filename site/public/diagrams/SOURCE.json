@@ -1,0 +1,9 @@
+{
+  "source": "bundles/bundle1/pdf/一人成队_MAS工程与组织设计_v3_完整包与配置.pdf",
+  "source_sha256": "43d51b1b3645ccf5a1f43497504defa3a5b1c3dd3a89018a81ea06725628afc5",
+  "pages": {
+    "organization.png": 5,
+    "collaboration.png": 6
+  },
+  "method": "pdftoppm, 135dpi, whole unaltered published PDF pages; no private artwork"
+}
